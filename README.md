@@ -46,5 +46,4 @@ Team Members:Prisha Bhatt
              Heer Trivedi
              Taksh Patel
              Parth Parmar           
-             Taksh Patel 
 ---
