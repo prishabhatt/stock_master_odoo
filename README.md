@@ -45,7 +45,6 @@ Team Name:ZeroVarience
 Team Members:Prisha Bhatt
              Heer Trivedi
              Taksh Patel
-             Parth Parmar
-             Parth Parmar            
+             Parth Parmar           
              Taksh Patel 
 ---
